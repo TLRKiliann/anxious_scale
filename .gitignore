@@ -1,1 +1,5 @@
 anxious_scale/
+env/
+/bin/
+/lib/
+/pyvenv.cfg
